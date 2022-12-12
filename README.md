@@ -7,7 +7,7 @@
 ### About me:
 
 - :books: I'm currenly a student at Baltic State Technical University, my degree is Computer Science
-- :spiral_notepad: I'm interested in Data Science and Backend Web Development
+- :spiral_notepad: I'm interested in Data Science and Web Development
 - :trophy: First place at competitive programming competition of St. Petersburg
 - :runner: In my free time, I like to solve coding problems and train for marathon running
 
