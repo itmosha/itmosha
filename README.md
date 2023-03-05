@@ -6,7 +6,7 @@
 
 ### About me:
 
-- :books: I'm currenly a student at Baltic State Technical University, my degree is Computer Science
+- :books: I'm currenly a student at Baltic State Technical University, my degree is Software Engineering
 - :spiral_notepad: I'm interested in Web Development
 - :trophy: First place at competitive programming competition of St. Petersburg
 - :runner: In my free time, I like to solve coding problems and train for marathon running
