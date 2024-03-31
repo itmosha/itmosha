@@ -1,48 +1,60 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" width="250"/>
+<div align="center">
+    <h1>Hi, I'm itmosha!</h1>
+    <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" width="250"/>
 </div>
 
-<h1 align="center">Hi, I'm itmosha!</h1>
-
-### About me:
+## About me
 
 - :books: I'm currenly a student at Baltic State Technical University, my degree is Software Engineering
-- :spiral_notepad: I'm interested in Web Development
+- :man_office_worker: I currently work as a Golang Developer 
+- :spiral_notepad: I'm interested in Backend Web Development
 - :trophy: First place at competitive programming competition of St. Petersburg
-- :runner: In my free time, I like to solve coding problems and train for marathon running
+- :runner: In my free time, I like to solve coding problems and do sports
 
-### How to reach me:
 
-:envelope: You can contact me at balkunov.s@mail.ru or itmosha0@gmail.com
+## Languages and tools
 
----
-
-### Languages and tools:
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Golang" alt="Golang" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TypeScript" alt="TypeScript" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="50" height="50"/>&nbsp;
-  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next" alt="Next" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwind" alt="Tailwind" width="50" height="50" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="50" height="50"/>&nbsp;
+<h4 align="center">Languages</h3>
+<div align="center">
+    <img src="https://img.shields.io/badge/golang-21B4DD?style=for-the-badge&logo=go&logoColor=white" title="Go" alt="Go" height="36"/>&nbsp;
+    <img src="https://img.shields.io/badge/bash-151515?style=for-the-badge&logo=gnu-bash&logoColor=white" title="Bash" alt="Bash" height="36"/>&nbsp;
+    <img src="https://img.shields.io/badge/python-366E9D?style=for-the-badge&logo=python&logoColor=white" title="Python" alt="Python" height="36"/>&nbsp;
+</div>
+<h4 align="center">Frameworks</h3>
+<div align="center">
+    <img src="https://img.shields.io/badge/gin-008FD4?style=for-the-badge&logo=gin&logoColor=white" title="Gin" alt="Gin" height="36"/>&nbsp;
+    <img src="https://img.shields.io/badge/django-2BA876?style=for-the-badge&logo=django&logoColor=white" title="Django" alt="Django" height="36"/>&nbsp;
+    <img src="https://img.shields.io/badge/flask-292D35?style=for-the-badge&logo=flask&logoColor=white" title="Flask" alt="Flask" height="36"/>&nbsp;
+</div>
+<h4 align="center">Databases & Stores</h3>
+<div align="center">
+    <img src="https://img.shields.io/badge/postgres-326790?style=for-the-badge&logo=postgresql&logoColor=white" title="Postgres" alt="Postgres" height="36"/>&nbsp;
+    <img src="https://img.shields.io/badge/redis-A41E13?style=for-the-badge&logo=redis&logoColor=white" title="Redis" alt="Redis" height="36"/>&nbsp;
+    <img src="https://img.shields.io/badge/kafka-101010?style=for-the-badge&logo=apachekafka&logoColor=white" title="Kafka" alt="Kafka" height="36"/>&nbsp;
+</div>
+<h4 align="center">Deploy & Environment</h3>
+<div align="center">
+    <img src="https://img.shields.io/badge/linux-010101?style=for-the-badge&logo=linux&logoColor=white" title="Linux" alt="Linux" height="36"/>&nbsp;
+    <img src="https://img.shields.io/badge/docker-04B2DE?style=for-the-badge&logo=docker&logoColor=white" title="Docker" alt="Docker" height="36"/>&nbsp;
+    <img src="https://img.shields.io/badge/nginx-069307?style=for-the-badge&logo=nginx&logoColor=white" title="Nginx" alt="Nginx" height="36"/>&nbsp;
+    <img src="https://img.shields.io/badge/gitlab-E3412A?style=for-the-badge&logo=gitlab&logoColor=white" title="Gitlab" alt="Gitlab" height="36"/>&nbsp;
+</div>
+<h4 align="center">Documentation & Testing</h3>
+<div align="center">
+        <img src="https://img.shields.io/badge/swagger-49A02A?style=for-the-badge&logo=swagger&logoColor=white" title="Swagger" alt="Swagger" height="36"/>&nbsp;
+        <img src="https://img.shields.io/badge/postman-Fc6C38?style=for-the-badge&logo=postman&logoColor=white" title="Postman" alt="Postman" height="36"/>&nbsp;
 </div>
 
----
+## How to reach me
 
-### My stats:
+:envelope: You can contact me at [email](mailto:balkunov.s@mail.ru) or [telegram](https://t.me/itmosha)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itmosha&theme=synthwave)](https://git.io/streak-stats)
+## My stats
+
+:bar_chart: My codestats profile is [itmosha](https://codestats.net/users/itmosha)
+
+<div>
+    <p align="center" width="100%">
+        <img width="50%" src="http://github-readme-streak-stats.herokuapp.com?user=itmosha&theme=synthwave"></img>
+    </p>
+</div>
