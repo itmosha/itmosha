@@ -5,11 +5,11 @@
 
 ## About me
 
-- :books: I'm currenly a student at Baltic State Technical University, my degree is Software Engineering
+- :books: I'm graduate of Baltic State Technical University, my degree is Software Engineering (bachelor)
 - :man_office_worker: I currently work as a Golang Developer 
-- :spiral_notepad: I'm interested in Backend Web Development
+- :spiral_notepad: I'm interested in Backend Web Development and Embedded Software 
 - :trophy: First place at competitive programming competition of St. Petersburg
-- :runner: In my free time, I like to solve coding problems and do sports
+- :runner: In my free time, I like to solve coding problems, learn microelectronics, solder and program my own devices
 
 
 ## Languages and tools
@@ -47,7 +47,7 @@
 
 ## How to reach me
 
-:envelope: You can contact me at [email](mailto:balkunov.s@mail.ru) or [telegram](https://t.me/itmosha)
+:envelope: You can contact me at [email](mailto:balkunov.s@mail.ru) or [telegram](https://t.me/balkunov)
 
 ## My stats
 
